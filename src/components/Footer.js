@@ -3,7 +3,7 @@ import React from 'react';
 export const Footer = () => {
     return (
         <div className = "footer">
-            Copyright &copy; Sherjeel Ahmed
+            Created by Sherjeel Ahmed
         </div>
     )
 }
