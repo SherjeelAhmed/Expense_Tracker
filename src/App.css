@@ -44,8 +44,8 @@ body {
   margin-right: auto;
   font-family: 'Lato', sans-serif;
   background-image: url("https://lh3.googleusercontent.com/proxy/lQGfucpgQ9CR1sSAXoeLM9FlzLb6foJ_fQt98aiSYv1dRuM3vEQLDLNwQqDCN3uzuJyxSmmzIoxj6Y4G3dqBv-O2p9Tyokh3RJENvUM87l7yhDUpYhcXvvbl893A6UPJIOEoeE1adg");
-  min-width: 1366px;
-  min-height: 768px;
+  /* min-width: 1366px; */
+  /* min-height: 768px; */
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
