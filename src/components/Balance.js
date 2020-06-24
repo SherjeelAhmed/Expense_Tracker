@@ -11,7 +11,7 @@ export const Balance = () => {
     
     return (
         <div className="YourBalance-container">
-            <h4>Balance : ${total}</h4>
+            <h4>Balance : ${+total}</h4>
         </div>
     )
 }

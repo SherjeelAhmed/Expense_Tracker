@@ -13,6 +13,7 @@
   text-align: center;
   font-size: 30px;
   background-color:#DA330F;
+  margin: 0  -40px;
 }
 
 .YourBalance-container{
@@ -23,7 +24,7 @@
   padding: 20px;
   display: flex;
   justify-content: space-between;
-  margin: 20px ;
+  margin: 20px  -40px;
   font-size: 28px;
 }
 
@@ -91,7 +92,7 @@ h4 {
   padding: 20px;
   display: flex;
   justify-content: space-between;
-  margin: 20px 0;
+  margin: 20px -40px;
 }
 
 .inc-exp-container > div {
